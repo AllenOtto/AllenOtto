@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently a Software Engineer student at ALX Africa.<br>I'm working on sharpening my frontend development skills especially in object oriented JavaScript<br>Future Goals: Contribute more to the open-source community and learn more about blockchain technology.
+I’m currently a Software Engineer student at ALX Africa.<br>I'm working on sharpening my frontend development skills especially in object oriented JavaScript<br>Future Goals: Contribute more to the open-source community and learn and venture more into the blockchain tech space.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kepha-ototo-939383ba) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KephaOtotoDev) 
