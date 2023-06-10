@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m currently a Software Engineer student at ALX Africa.<br>I'm working on sharpening my frontend development skills especially in object oriented JavaScript<br>Future Goals: Contribute more to the open-source community and learn more about blockchain technology.
 
-<img src="[https://i.gifer.com/4LQU.mp4](https://gifer.com/en/4LQU)" width="400px">
+<img src="[[https://i.gifer.com/4LQU.mp4](https://gifer.com/en/4LQU)](https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media)" width="400px">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kepha-ototo-939383ba) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KephaOtotoDev) 
