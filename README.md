@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m currently a Software Engineer student at ALX Africa.<br>I'm working on sharpening my frontend development skills especially in object oriented JavaScript<br>Future Goals: Contribute more to the open-source community and learn more about blockchain technology.
 
-<img src="https://camo.githubusercontent.com/55a6539de62b58da48f354e61ab1e67a60c1a6115181383b75ed7279a942815a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f666841776b34446e714e6777382f67697068792e676966" width="400px">
+<img src="[https://camo.githubusercontent.com/55a6539de62b58da48f354e61ab1e67a60c1a6115181383b75ed7279a942815a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f666841776b34446e714e6777382f67697068792e676966](https://i.gifer.com/4LQU.gif)" width="400px">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kepha-ototo-939383ba) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KephaOtotoDev) 
