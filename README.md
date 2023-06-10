@@ -16,10 +16,6 @@ I’m currently a Software Engineer student at ALX Africa.<br>I'm working on sha
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
