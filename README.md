@@ -21,6 +21,5 @@ I’m currently a Software Engineer student at ALX Africa.<br>I'm working on sha
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=allenotto&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
