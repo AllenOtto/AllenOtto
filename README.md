@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently a Software Engineer student at ALX Africa.<br>I'm working on sharpening my frontend development skills especially in object oriented JavaScript<br>Future Goals: Contribute more to the open-source community and learn and venture more into the blockchain tech space<br>How to reach me: kephamoturi@gmail.com.
+I’m currently a Software Engineer student at ALX Africa.<br>I'm working on sharpening my frontend development skills especially in object oriented JavaScript<br>Future Goals: Contribute more to the open-source community and learn and venture more into the blockchain tech space<br><br>How to reach me: kephamoturi@gmail.com.
 
 
 ## 🌐 Socials:
