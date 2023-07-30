@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently a Software Engineer student at ALX Africa.<br>I'm working on my C# and it's music to my ears. Currently bending WPF to my will.<br>Future Goals: Contribute more to the open-source community and learn and venture more into the blockchain tech space<br><br>How to reach me: hello@techbomba.co.ke<br>You're welcome to visit my website at https://www.techbomba.co.ke
+I’m currently a Software Engineer student at ALX Africa.<br>I'm working on my C# and it's music to my ears. Currently bending WPF to my will.<br>Future Goals: Contribute more to the open-source community and build a few of my own apps.<br><br>How to reach me: hello@techbomba.co.ke<br>You're welcome to visit my website at https://www.techbomba.co.ke
 
 
 ## 🌐 Socials:
