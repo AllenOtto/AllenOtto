@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently a Software Engineer at TechBomba Digital.<br>Bending backend dev to my will. <br>Future goal: Create impact in the life and mind of the African child through code.<br><br>How to reach me: kephamoturi@gmail.com<br>You're welcome to visit my website at https://techbomba.co.ke
+I’m currently a Software Engineer at TechBomba Solutions.<br>Bending backend dev to my will. <br>Future goal: Create impact in the life and mind of the African child through code.<br><br>How to reach me: kephamoturi@gmail.com<br>You're welcome to visit my website at https://techbomba.co.ke
 
 
 ## 🌐 Socials:
